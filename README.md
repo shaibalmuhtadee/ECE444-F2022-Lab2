@@ -1,4 +1,4 @@
 Shaibal Muhtadee
 
 **Activity 1**
-![Terminal Screenshot]](assets/activity1.png)
+![Activity 1](assets/activity1.png "Activity 1")
