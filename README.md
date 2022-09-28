@@ -1,4 +1,4 @@
-Shaibal Muhtadee
+**Shaibal Muhtadee**
 
 This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
